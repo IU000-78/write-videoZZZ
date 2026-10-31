@@ -42,7 +42,7 @@ Installation controls depend on the client. The plugin requires an AI environmen
 
 **Make a targeted revision**
 
-> Change only shot 3: the character turns before speaking, and the double doors in the background remain fully closed. Keep all other settings, shot numbers, and dialogue unchanged.
+> Specify the shot numbers and the changes you need. The skill revises the relevant parts while preserving the other shots, confirmed settings, and dialogue.
 
 The skill produces Chinese video prompts by default. The English and Russian READMEs translate the project documentation; they do not establish full multilingual support for the skill.
 
