@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "video-prompt-director",
+  "version": "1.0.0",
+  "description": "视频提示词导演：分镜设计、运镜方案、动作连续性与防穿帮审核。",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "视频提示词导演",
+        "shortDescription": "视频分镜、运镜设计与防穿帮审核",
+        "capabilities": []
+      }
+    }
+  }
+}

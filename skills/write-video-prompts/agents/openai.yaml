@@ -1,0 +1,8 @@
+interface:
+  display_name: 视频提示词导演
+  short_description: 视频分镜与防穿帮；中全景按需配站位图，特效白模先询问，站位只写段首
+  default_prompt: 使用 $write-video-prompts 编写或审核提示词，按需精简配图：确需中景或全景交代空间才配站位图，纯近景与特写省图；特效白模先询问，站位约束只在对应段首写一次，逐镜写动作与变化，默认不标秒。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true
