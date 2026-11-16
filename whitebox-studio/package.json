@@ -1,0 +1,1 @@
+{"name":"whitebox-blocking-studio","private":true,"type":"module","scripts":{"test":"node tests.mjs","build":"node build.mjs"}}
